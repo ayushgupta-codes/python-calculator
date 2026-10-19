@@ -45,4 +45,3 @@ try:
 except ValueError:
     print("Error: Please enter valid numbers.")
 
-print("Thank you for using the calculator!")
